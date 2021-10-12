@@ -1,0 +1,11 @@
+Country,Number of Parts,Cost ($),Business Continues
+Brazil,44,72000,No
+Mexico,27,48000,Yes
+Canada,30,54000,No
+Mexico,38,61000,No
+Canada,40,,Yes
+Brazil,35,58000,Yes
+Mexico,,52000,No
+Brazil,48,79000,Yes
+Canada,50,83000,No
+Brazil,37,67000,Yes
