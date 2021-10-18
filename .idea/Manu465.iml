@@ -11,4 +11,8 @@
     <option name="versionSpecifier" value="Don't specify version" />
     <option name="keepMatchingSpecifier" value="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="versionSpecifier" value="Don't specify version" />
+    <option name="modifyBaseFiles" value="true" />
+  </component>
 </module>
