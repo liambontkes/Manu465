@@ -6,7 +6,6 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (Manu465)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Manu465-Group7" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="versionSpecifier" value="Don't specify version" />
